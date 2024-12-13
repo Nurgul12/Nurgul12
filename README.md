@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@nurgul.ergunoz)
 
-- 💬 Ask me about **Software testing, backend development (Java), and mobile app development (Flutter and Swift).**
+- 💬 Ask me about **Software testing, backend development (Java) and mobile app development (Flutter and Swift).**
 
 - 📫 How to reach me **nurgul.ergunoz@gmail.com**
 
