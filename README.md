@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nurgul.ergunoz@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mUWNqZXNF95lDEvxA-nk1jFl7sClB3_p/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mUWNqZXNF95lDEvxA-nk1jFl7sClB3_p/view?usp=sharing)
 
 - ⚡ Fun fact **I love experimenting with new technologies.**
 
