@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **software testing and enhancing my Spring JPA skills.**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Nurgul12)
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on [Medium](https://medium.com/@nurgul.ergunoz)
 
 - 💬 Ask me about **Software testing, backend development (Java), and mobile app development (Flutter and Swift).**
 
 - 📫 How to reach me **nurgul.ergunoz@gmail.com**
 
-- 📄 Know about my experiences [Resume](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mUWNqZXNF95lDEvxA-nk1jFl7sClB3_p/view?usp=share_link)
 
 - ⚡ Fun fact **I love experimenting with new technologies.**
 
