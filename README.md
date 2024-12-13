@@ -17,6 +17,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Yazılım test süreçlerinin temel unsurları olan test dokümanları, test tipleri ve giriş-çıkış…](https://medium.com/@nurgul.ergunoz/yaz%C4%B1l%C4%B1m-test-s%C3%BCre%C3%A7lerinin-temel-unsurlar%C4%B1-olan-test-dok%C3%BCmanlar%C4%B1-test-tipleri-ve-giri%C5%9F-%C3%A7%C4%B1k%C4%B1%C5%9F-e47c143b101c?source=rss-b6c051a5d561------2)
+- [Yazılım testi, bir yazılımın kalitesini artırmak ve kullanıcıya en iyi deneyimi sunmak için…](https://medium.com/@nurgul.ergunoz/yaz%C4%B1l%C4%B1m-testi-bir-yaz%C4%B1l%C4%B1m%C4%B1n-kalitesini-art%C4%B1rmak-ve-kullan%C4%B1c%C4%B1ya-en-iyi-deneyimi-sunmak-i%C3%A7in-393f6a34b816?source=rss-b6c051a5d561------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
