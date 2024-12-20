@@ -37,11 +37,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nurgul12&theme=github" alt="Activity Graph" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurgul12&" alt="nurgul12" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurgul12&show_icons=true&locale=en&layout=compact" alt="nurgul12" /></p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurgul12&theme=github_dark" alt="Profile Stats" />
-</p>
+
 
 
 <p align="center">
