@@ -38,8 +38,6 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nurgul12&theme=github" alt="Activity Graph" />
 </p>
 
-
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurgul12&theme=github_dark" alt="Profile Stats" />
 </p>
