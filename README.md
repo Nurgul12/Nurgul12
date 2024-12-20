@@ -34,4 +34,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurgul12&show_icons=true&locale=en&layout=compact" alt="nurgul12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurgul12&" alt="nurgul12" /></p>
+<p><img align="center" src="https://www.hackerrank.com/profile/nurgul_ergunoz" alt="nurgul_ergunoz" /></p>
+
 
