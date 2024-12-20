@@ -26,6 +26,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nurgül-ergünöz-893886292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurgül ergünöz" height="30" width="40" /></a>
 <a href="https://medium.com/@nurgul.ergunoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nurgul.ergunoz" height="30" width="40" /></a>
+ <a href="https://www.hackerrank.com/profile/nurgul_ergunoz" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/HackerRank_logo.png" alt="HackerRank Profile" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,11 +37,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurgul12&show_icons=true&locale=en&layout=compact" alt="nurgul12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurgul12&" alt="nurgul12" /></p>
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/nurgul_ergunoz">
-    <img src="https://img.shields.io/badge/HackerRank-profile-blue?logo=HackerRank&logoColor=white" alt="HackerRank Profile" />
-  </a>
-</p>
 
 
 
