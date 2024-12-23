@@ -18,7 +18,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [TEST OTOMASYONU ve SELENIUM](https://medium.com/@nurgul.ergunoz/test-otomasyonu-ve-selenium-984976a79902?source=rss-b6c051a5d561------2)
-- [HATA RAPORLAMA, AGILE TESTING&amp;SCRUM](https://medium.com/@nurgul.ergunoz/hata-raporlama-agile-testing-scrum-ca9d70b87b1a?source=rss-b6c051a5d561------2)
+- [HATA RAPORLAMA, AGILE TESTING &amp; SCRUM](https://medium.com/@nurgul.ergunoz/hata-raporlama-agile-testing-scrum-ca9d70b87b1a?source=rss-b6c051a5d561------2)
 - [Yazılım Test Tasarım Ve Teknikleri](https://medium.com/@nurgul.ergunoz/yaz%C4%B1l%C4%B1m-test-tasar%C4%B1m-ve-teknikleri-285182b07016?source=rss-b6c051a5d561------2)
 - [Yazılım test süreçlerinin temel unsurları olan test dokümanları, test tipleri ve giriş-çıkış…](https://medium.com/@nurgul.ergunoz/yaz%C4%B1l%C4%B1m-test-s%C3%BCre%C3%A7lerinin-temel-unsurlar%C4%B1-olan-test-dok%C3%BCmanlar%C4%B1-test-tipleri-ve-giri%C5%9F-%C3%A7%C4%B1k%C4%B1%C5%9F-e47c143b101c?source=rss-b6c051a5d561------2)
 <!-- BLOG-POST-LIST:END -->
