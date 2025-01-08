@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Test Otomasyonunda Kullanılan Anahtar Kavramlar](https://medium.com/@nurgul.ergunoz/test-otomasyonunda-kullan%C4%B1lan-anahtar-kavramlar-63a14952dae9?source=rss-b6c051a5d561------2)
 - [APPIUM &amp; POSTMAN](https://medium.com/@nurgul.ergunoz/appium-postman-f86ae73cd349?source=rss-b6c051a5d561------2)
 - [TEST OTOMASYONU ve SELENIUM](https://medium.com/@nurgul.ergunoz/test-otomasyonu-ve-selenium-984976a79902?source=rss-b6c051a5d561------2)
 - [HATA RAPORLAMA, AGILE TESTING &amp; SCRUM](https://medium.com/@nurgul.ergunoz/hata-raporlama-agile-testing-scrum-ca9d70b87b1a?source=rss-b6c051a5d561------2)
-- [Yazılım Test Tasarım Ve Teknikleri](https://medium.com/@nurgul.ergunoz/yaz%C4%B1l%C4%B1m-test-tasar%C4%B1m-ve-teknikleri-285182b07016?source=rss-b6c051a5d561------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
