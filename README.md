@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Allure Report ve Extent Reports: Test Raporlama Araçlarının Gücü](https://medium.com/@nurgul.ergunoz/allure-report-ve-extent-reports-test-raporlama-ara%C3%A7lar%C4%B1n%C4%B1n-g%C3%BCc%C3%BC-03d34290f7d5?source=rss-b6c051a5d561------2)
+- [Page Object Model &lpar;POM&rpar;: Test Otomasyonunda Etkili Tasarımın Anahtarı](https://medium.com/@nurgul.ergunoz/page-object-model-pom-test-otomasyonunda-etkili-tasar%C4%B1m%C4%B1n-anahtar%C4%B1-70c898867ad0?source=rss-b6c051a5d561------2)
 - [Test Senaryosu ve Test Case Oluşturma: Etkili Test Süreci için Temel Yaklaşımlar](https://medium.com/@nurgul.ergunoz/test-senaryosu-ve-test-case-olu%C5%9Fturma-etkili-test-s%C3%BCreci-i%C3%A7in-temel-yakla%C5%9F%C4%B1mlar-7fe0be92cc43?source=rss-b6c051a5d561------2)
 - [Test Otomasyonunda Kullanılan Anahtar Kavramlar](https://medium.com/@nurgul.ergunoz/test-otomasyonunda-kullan%C4%B1lan-anahtar-kavramlar-63a14952dae9?source=rss-b6c051a5d561------2)
-- [APPIUM &amp; POSTMAN](https://medium.com/@nurgul.ergunoz/appium-postman-f86ae73cd349?source=rss-b6c051a5d561------2)
-- [TEST OTOMASYONU ve SELENIUM](https://medium.com/@nurgul.ergunoz/test-otomasyonu-ve-selenium-984976a79902?source=rss-b6c051a5d561------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
